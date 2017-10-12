@@ -1,0 +1,16 @@
+{
+  "name": "learnyounode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "BabyStep.js",
+  "dependencies": {
+    "concat-stream": "^1.6.0",
+    "through2-map": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "proton626",
+  "license": "ISC"
+}
